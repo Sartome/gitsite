@@ -9,3 +9,4 @@ git commit -m
 
 git pull #prend la dernier maj
 git push #publie la maj
+test des commandes
